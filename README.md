@@ -1,6 +1,7 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0f2c15ce-ca74-4b6d-9159-3c8c57f812e8" /># FiveM-ATGM-Script-QBCore-
 Targeting pod and air-to-ground guided weapons for FiveM. TADS/LITENING-style pod with gray TV and thermal, coded laser, buddy lasing and up to 8 marked targets. Hellfire, Maverick, Spike NLOS, HAROP and GPS/laser bombs on real physics, redirectable in flight. Server-side security. QBCore.
-<img width="1672" height="941" alt="927f9494-92cb-4fdc-bdb0-4e555943afc5" src="https://github.com/user-attachments/assets/c621e212-182a-48ce-a580-dc446fc17074" />
+<img width="1672" height="941" alt="927f9494-92cb-4fdc-bdb0-4e555943afc5" src="https://github.com/user-attachments/assets/7bc6b9d0-5fde-49bc-98ea-74b0343458c6" />
+
 
 <div align="center">
 
