@@ -7,7 +7,7 @@ Targeting pod and air-to-ground guided weapons for FiveM. TADS/LITENING-style po
 
 **Targeting pod · Laser designation · Guided missiles & bombs**
 
-🎬 [**Watch the showcase**](https://youtu.be/a9SvNuM-mRw) · 🛒 [**Buy on Discord**](https://discord.gg/YOUR-INVITE)
+🎬 [**Watch the showcase**](https://youtu.be/a9SvNuM-mRw) · 🛒 [**Buy on Discord**](https://discord.gg/XEpk5MUJEh)
 
 </div>
 
