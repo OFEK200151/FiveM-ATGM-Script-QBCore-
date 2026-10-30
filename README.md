@@ -1,6 +1,5 @@
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0f2c15ce-ca74-4b6d-9159-3c8c57f812e8" /># FiveM-ATGM-Script-QBCore-
-Targeting pod and air-to-ground guided weapons for FiveM. TADS/LITENING-style pod with gray TV and thermal, coded laser, buddy lasing and up to 8 marked targets. Hellfire, Maverick, Spike NLOS, HAROP and GPS/laser bombs on real physics, redirectable in flight. Server-side security. QBCore.
-<img width="1672" height="941" alt="927f9494-92cb-4fdc-bdb0-4e555943afc5" src="https://github.com/user-attachments/assets/7bc6b9d0-5fde-49bc-98ea-74b0343458c6" />
+<img width="1672" height="941" alt="927f9494-92cb-4fdc-bdb0-4e555943afc5" src="https://github.com/user-attachments/assets/efc9f29b-dc7f-4c60-a457-5f49b0b7c70a" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9c69c475-e82b-46d1-a585-b610573bd7a9" />
 
 
 <div align="center">
@@ -11,6 +10,8 @@ Targeting pod and air-to-ground guided weapons for FiveM. TADS/LITENING-style po
 **Targeting pod · Laser designation · Guided missiles & bombs**
 
 🎬 [**Watch the showcase**](https://youtu.be/a9SvNuM-mRw) · 🛒 [**Buy on Discord**](https://discord.gg/XEpk5MUJEh)
+
+
 
 </div>
 
@@ -75,3 +76,7 @@ Mark up to 8 targets, release, and every weapon flies to its own target while yo
 <sub>© Jhonny · JS-STUDIO · All rights reserved</sub>
 
 </div>
+
+<img width="1672" height="941" alt="JS-ATGM Eight-Weapon Arsenal" src="https://github.com/user-attachments/assets/106dff4d-6258-465f-8ecc-369e42585ea4" />
+<img width="1672" height="941" alt="Desert Training_ Apache and F-16" src="https://github.com/user-attachments/assets/67d74c84-9607-4c05-8a69-f5048347b2b1" />
+
